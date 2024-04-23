@@ -1,0 +1,4 @@
+Domain,Type,Content,TTL
+example.indiakhanakhazana.in,A,192.168.1.7,1
+*.indiakhanakhazana.in,A,103.235.104.55,1
+indiakhanakhazana.in,A,103.235.104.55,1
